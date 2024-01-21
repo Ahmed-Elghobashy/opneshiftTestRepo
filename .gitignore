@@ -1,0 +1,72 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# IDE-specific files
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+*.swm
+*.bak
+*.bkp
+*.backup
+*.save
+*.orig
+*.old
+*.tmp
+*.temp
+*.out
+*.min
+*.compiled
+
+# WebStorm
+.idea/
+*.iml
+*.iws
+
+# TypeScript
+*.tsbuildinfo
+
+# Yarn
+yarn-error.log
